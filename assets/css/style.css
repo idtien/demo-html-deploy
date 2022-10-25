@@ -189,6 +189,7 @@ html {
     margin-top: 46px;
     padding-top: 50%;
     background: url('/assets/img/slider/Lakeside_Sunset_by_Louis_Coyle.png') top center / cover no-repeat;
+    /* Update slider */
 }
 
 #silder .text-content {
